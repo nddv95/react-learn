@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import classes from './Person.css';
 import withClass from '../../../hoc/WithClass';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Auxian';
 import PropTypes from 'prop-types';
 
 
